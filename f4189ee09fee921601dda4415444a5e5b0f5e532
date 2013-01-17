@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "Oeqgoe4g",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-01-17T04:03:47Z",
+      "side": 1,
+      "message": "Missing copyright header.",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "Oesglr68",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-01-17T04:03:47Z",
+      "side": 1,
+      "message": "Extra blank line.",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
