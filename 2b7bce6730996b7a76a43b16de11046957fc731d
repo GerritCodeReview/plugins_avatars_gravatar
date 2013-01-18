@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "OgEImkrs",
+        "filename": ".settings/org.eclipse.core.resources.prefs",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T07:14:09Z",
+      "side": 1,
+      "message": "Is this line needed?",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "OgKIWfk0",
         "filename": ".settings/org.eclipse.m2e.core.prefs",
         "patchSetId": 2
