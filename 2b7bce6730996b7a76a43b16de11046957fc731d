@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "OgOIchnM",
+        "filename": ".gitignore",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "Idea files should be also ignored\n  /.idea\n\nWhat about\n  /.settings/org.maven.ide.eclipse.prefs\n  /.settings/org.eclipse.m2e.core.prefs\n? For the replication plugin they are ignored.",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OgKIWfk0",
+        "filename": ".settings/org.eclipse.m2e.core.prefs",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "Is this file needed? For the replication plugin it is ignored.",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OgEIPsjs",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "add\n  \u003cpackaging\u003ejar\u003c/packaging\u003e",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OgGICthU",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "add\n  \u003cGerrit-ApiVersion\u003e${Gerrit-ApiVersion}\u003c/Gerrit-ApiVersion\u003e",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OgCIMrkQ",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "The scope should be provided\n  \u003cscope\u003eprovided\u003c/scope\u003e",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OgAIYin0",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "I think you also need to add the gerrit-api-repository here:\n\n  \u003crepositories\u003e\n    \u003crepository\u003e\n      \u003cid\u003egerrit-api-repository\u003c/id\u003e\n      \u003curl\u003ehttps://gerrit-api.commondatastorage.googleapis.com/snapshot/\u003c/url\u003e\n    \u003c/repository\u003e\n  \u003c/repositories\u003e",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OgIIsmp0",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-18T06:45:27Z",
+      "side": 1,
+      "message": "Could we avoid the underline in the package name?",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
