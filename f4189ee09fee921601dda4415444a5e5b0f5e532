@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "OhL76GQA",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-01-18T05:06:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "Oeqgoe4g",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "OfiRIMl8",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-01-17T06:54:58Z",
       "side": 1,
       "message": "This is not a thread safe class. You need to make a new instance every time you want to compute a new digest.",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OhJ7-XfA",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-01-18T05:06:58Z",
+      "side": 1,
+      "message": "Done.  Thanks for pointing that out... it explains the one time I saw an incorrect digest.",
+      "parentUuid": "OfiRIMl8",
       "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "OhH4FsRo",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-01-18T05:06:58Z",
+      "side": 1,
+      "message": "Done.  There was a subtle bug here, b \u003e\u003e 4 fails with negatives yet so does b \u003e\u003e\u003e 4, I guess java casts it to 32-bit first.\n\nI\u0027m happy with this change, it\u0027ll be much faster than the previous code.  I never did like this sample from gravatar.",
+      "parentUuid": "OfmRSKg0",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "OfkRNLm4",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
         "patchSetId": 1
@@ -70,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "OhF4C9RQ",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-01-18T05:06:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "OfkRNLm4",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "Oesglr68",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
         "patchSetId": 1
@@ -81,6 +153,24 @@
       "writtenOn": "2013-01-17T04:03:47Z",
       "side": 1,
       "message": "Extra blank line.",
+      "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "OhD4PKT0",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatar_providers/GravatarAvatarProvider.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-01-18T05:06:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "Oesglr68",
       "revId": "f4189ee09fee921601dda4415444a5e5b0f5e532",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
