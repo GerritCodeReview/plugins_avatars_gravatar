@@ -90,6 +90,24 @@
     },
     {
       "key": {
+        "uuid": "P8HI9GLo",
+        "filename": ".settings/org.eclipse.core.resources.prefs",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-02-15T07:45:06Z",
+      "side": 1,
+      "message": "Yes, I think this line is actually correct. We also have it for the other projects. Sorry for the confusion.",
+      "parentUuid": "P8tD5XA0",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "OgKIWfk0",
         "filename": ".settings/org.eclipse.m2e.core.prefs",
         "patchSetId": 2
