@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "P7nRTKN0",
+        "filename": ".gitignore",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-02-15T04:26:29Z",
+      "side": 1,
+      "message": "./idea is in the .gitignore in the root of the gerrit project, the replication plugin, and maybe a couple of others.",
+      "parentUuid": "P8rD02BY",
+      "revId": "2b7bce6730996b7a76a43b16de11046957fc731d",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "OgEImkrs",
         "filename": ".settings/org.eclipse.core.resources.prefs",
         "patchSetId": 2
