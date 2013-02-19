@@ -70,6 +70,24 @@
       "revId": "3672bd500fbbe6a7e95cf813a193b22d10ee81e5",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "P8pA31LI",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatars/gravatar/GravatarAvatarProvider.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-02-19T03:25:27Z",
+      "side": 1,
+      "message": "Sadly the extra \u0027:\u0027 doesn\u0027t help either:\n\nhttp://localhost:8080/accounts/self/://www.gravatar.com/avatar/ffcd26311eca7d9c9c191ec1fb949606.jpg?d\u003didenticon\u0026r\u003dpg\u0026s\u003d100\n\nAccording to http://paulirish.com/2010/the-protocol-relative-url/, \u0027//\u0027 should work fine, but maybe not with url-redirects?  :(",
+      "parentUuid": "P8lC9bAI",
+      "revId": "3672bd500fbbe6a7e95cf813a193b22d10ee81e5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
