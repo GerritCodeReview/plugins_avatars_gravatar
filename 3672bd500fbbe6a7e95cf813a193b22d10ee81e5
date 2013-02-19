@@ -88,6 +88,24 @@
       "revId": "3672bd500fbbe6a7e95cf813a193b22d10ee81e5",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "P8tBBXAw",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatars/gravatar/GravatarAvatarProvider.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2013-02-19T03:34:09Z",
+      "side": 1,
+      "message": "Oh, right. Yes. You can\u0027t do this with a URL redirect. Its only valid in HTML in the browser. :-)\n\nYou could try something like:\n\n  @Inject\n  GravatarAvatarProvider(@CanonicalWebUrl @Nullable String canonicalUrl) {\n    ssl \u003d canonicalUrl !\u003d null \u0026\u0026 canonicalUrl.startsWith(\"https://\");\n  }\n\nand then use ssl if ssl was true. :-)",
+      "parentUuid": "P8pA31LI",
+      "revId": "3672bd500fbbe6a7e95cf813a193b22d10ee81e5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
