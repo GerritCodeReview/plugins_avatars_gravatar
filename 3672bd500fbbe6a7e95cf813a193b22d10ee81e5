@@ -52,6 +52,24 @@
       "revId": "3672bd500fbbe6a7e95cf813a193b22d10ee81e5",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "P8lC9bAI",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatars/gravatar/GravatarAvatarProvider.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2013-02-19T03:18:30Z",
+      "side": 1,
+      "message": "url.append(\"://www.gravatar.com/...\")? I think the leading : is necessary to trigger the protocol selection.",
+      "parentUuid": "P8hDD5Io",
+      "revId": "3672bd500fbbe6a7e95cf813a193b22d10ee81e5",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
