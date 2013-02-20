@@ -34,6 +34,24 @@
       "revId": "aa46c9e6e231e34030128ff88763f611f3ff5022",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "P8vDq4NA",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatars/gravatar/GravatarAvatarProvider.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1010813
+      },
+      "writtenOn": "2013-02-20T12:32:48Z",
+      "side": 1,
+      "message": "You could just unconditionally use SSL for things like this--I don\u0027t see any real harm in that.",
+      "parentUuid": "P8lAh7FE",
+      "revId": "aa46c9e6e231e34030128ff88763f611f3ff5022",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
