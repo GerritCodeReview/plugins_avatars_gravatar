@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "P7vTvOHc",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatars/gravatar/GravatarAvatarProvider.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-02-20T05:01:23Z",
+      "side": 1,
+      "message": "Is this going to have to be done in every class that implements AvatarProvider?\n\nIf so would it be better to move this into core Gerrit and have it pass `ssl` as a parameter on `getUrl`?",
+      "revId": "aa46c9e6e231e34030128ff88763f611f3ff5022",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
