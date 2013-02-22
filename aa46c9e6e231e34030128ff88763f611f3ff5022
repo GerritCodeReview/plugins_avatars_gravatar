@@ -52,6 +52,24 @@
       "revId": "aa46c9e6e231e34030128ff88763f611f3ff5022",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "QTxP0LBI",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/avatars/gravatar/GravatarAvatarProvider.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2013-02-22T17:58:43Z",
+      "side": 1,
+      "message": "imo the current solution is fine for now - we can revisit if/when there are other avatar plugins.  Some avatar providers might support only ssl or only non-ssl so I think we need to leave it up to the provider on which version to use.\n\nPassing a flag in on the constructor makes the most sense to me.  The interface could be a little cleaner, but I\u0027m fine with this for now and later we can add a @ServerIsUsingSsl flag or something similar if we decide enough people need it.  Bonus - this won\u0027t require a change to the Avatar Plugin API.",
+      "parentUuid": "P8vDq4NA",
+      "revId": "aa46c9e6e231e34030128ff88763f611f3ff5022",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
