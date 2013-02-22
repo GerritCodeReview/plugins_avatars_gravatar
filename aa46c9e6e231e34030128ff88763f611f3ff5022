@@ -1,0 +1,9 @@
+Code-Review+2: Brad Larson <bklarson@gmail.com>
+Verified+1: Brad Larson <bklarson@gmail.com>
+Code-Review+2: Shawn Pearce <sop@google.com>
+Code-Review+1: Chad Horohoe <chorohoe@wikimedia.org>
+Submitted-by: Brad Larson <bklarson@gmail.com>
+Submitted-at: Fri, 22 Feb 2013 18:35:53 +0000
+Reviewed-on: https://gerrit-review.googlesource.com/41280
+Project: plugins/avatars/gravatar
+Branch: refs/heads/master
