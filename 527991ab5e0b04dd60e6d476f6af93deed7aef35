@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5e991882_d2480464",
+        "filename": "BUCK",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2013-10-21T09:13:31Z",
+      "side": 1,
+      "message": "Manifest entries?",
+      "revId": "527991ab5e0b04dd60e6d476f6af93deed7aef35",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
