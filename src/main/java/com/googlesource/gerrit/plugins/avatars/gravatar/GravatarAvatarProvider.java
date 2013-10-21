@@ -14,6 +14,7 @@
 
 package com.googlesource.gerrit.plugins.avatars.gravatar;
 
+import com.google.gerrit.common.Nullable;
 import com.google.gerrit.extensions.annotations.Listen;
 import com.google.gerrit.server.IdentifiedUser;
 import com.google.gerrit.server.avatar.AvatarProvider;
@@ -24,8 +25,6 @@ import com.google.inject.Singleton;
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-
-import javax.annotation.Nullable;
 
 @Listen
 @Singleton
