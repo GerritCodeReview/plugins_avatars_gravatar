@@ -22,6 +22,24 @@
       "revId": "43dd0ebe35bc32de5b0ca29eeb5bbf4f10a05b99",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "de77c87c_d60324da",
+        "filename": "BUCK",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2013-10-30T09:42:23Z",
+      "side": 1,
+      "message": "Yes, you are right. Plugin name should match with directory name.",
+      "parentUuid": "de77c87c_b6fea893",
+      "revId": "43dd0ebe35bc32de5b0ca29eeb5bbf4f10a05b99",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
