@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9e463041_6cfb7bf0",
+        "filename": "BUCK",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-10-31T07:07:25Z",
+      "side": 1,
+      "message": "Not sure if the plugin name should be changed too. In the pom.xml Gerrit-PluginName is set to \u0027gravatar-avatar-provider\u0027... The plugin name should be the same no matter if built with Maven or Buck.",
+      "range": {
+        "startLine": 6,
+        "startChar": 4,
+        "endLine": 6,
+        "endChar": 33
+      },
+      "revId": "72a41975b65429af606f127b6001989d0b221655",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
