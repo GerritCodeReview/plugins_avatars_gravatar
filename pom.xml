@@ -25,7 +25,7 @@
               <Implementation-Title>Gerrit Code Review - gravatar image provider</Implementation-Title>
               <Implementation-Version>${project.version}</Implementation-Version>
               <Implementation-Vendor>Gerrit Code Review</Implementation-Vendor>
-              <Implementation-Vendor-URL>http://code.google.com/p/gerrit/</Implementation-Vendor-URL>
+              <Implementation-URL>http://code.google.com/p/gerrit/</Implementation-URL>
               <Gerrit-ApiType>${Gerrit-ApiType}</Gerrit-ApiType>
               <Gerrit-ApiVersion>${Gerrit-ApiVersion}</Gerrit-ApiVersion>
               <Gerrit-PluginName>gravatar-avatar-provider</Gerrit-PluginName>
