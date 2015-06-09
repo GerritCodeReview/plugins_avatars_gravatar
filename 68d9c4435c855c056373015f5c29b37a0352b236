@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f9bdb0e6_179c5470",
+        "filename": "BUCK",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2015-06-09T02:04:32Z",
+      "side": 0,
+      "message": "The name is like this so that it can be built in-tree by simply cloning the git into gerrit\u0027s plugins directory.",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 18
+      },
+      "revId": "68d9c4435c855c056373015f5c29b37a0352b236",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}

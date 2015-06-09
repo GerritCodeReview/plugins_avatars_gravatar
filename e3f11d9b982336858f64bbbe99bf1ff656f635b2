@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d9d46c30_361ab8a0",
+        "filename": "BUCK",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2015-06-09T02:04:32Z",
+      "side": 1,
+      "message": "By changing the name to this, we get this error when building in-tree:\n\n OSError: [Errno 2] No such file or directory: \u0027plugins/avatars-gravatar\u0027\n\nunless the git is either cloned into `plugins` with that specific name, or symlinked from elsewhere with that specific name.",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 26
+      },
+      "revId": "e3f11d9b982336858f64bbbe99bf1ff656f635b2",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
